@@ -1,2 +1,2 @@
 # JavaTraining
-This is understand Java basic commands
+This project is designed for a better understanding for Java basic commands
